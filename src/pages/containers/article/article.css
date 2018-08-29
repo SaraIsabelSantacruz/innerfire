@@ -1,0 +1,54 @@
+.article-container{
+  display: flex;
+  justify-content: space-between;
+}
+
+.article-social{
+  width: 10%;
+  margin: 40px 10px;
+  padding: 10px;
+}
+
+.article-text{
+  width: 50%;
+  margin: 10px;
+  padding: 10px;
+}
+
+.article-text p{
+  font-size: 21px;
+  color: #6D636D;
+  margin: 40px 0;
+}
+
+.article-user{
+  width: 30%;
+  margin-top: 40px;
+}
+
+.article-user img{
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+}
+
+.articleUser-description{
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 20px;
+}
+
+.articleUser-description p{
+  font-size: 15px;
+  margin: 0;
+}
+
+.form-article{
+  margin-top: 20%;
+}
+
+.form-article textarea{
+  width: 90%;
+  height: 151px;
+  margin: 0px;
+}
